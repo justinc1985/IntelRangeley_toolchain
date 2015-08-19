@@ -1,0 +1,9 @@
+i586-poky-linux
+mohonpeak32-.*-linux.*
+core2_32_intel_common-.*-linux.*
+core2_32-.*-linux.*
+i586-.*-linux.*
+x86-.*-linux.*
+noarch-.*-linux.*
+any-.*-linux.*
+all-.*-linux.*

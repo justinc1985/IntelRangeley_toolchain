@@ -1,0 +1,3 @@
+/usr/bin/openvt
+/usr/bin/openvt.kbd 100
+/bin/busybox.nosuid 50

@@ -1,0 +1,3 @@
+/usr/bin/deallocvt
+/usr/bin/deallocvt.kbd 100
+/bin/busybox.nosuid 50
